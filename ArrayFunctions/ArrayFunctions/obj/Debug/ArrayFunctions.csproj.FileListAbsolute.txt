@@ -1,0 +1,14 @@
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe.config
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.pdb
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csprojAssemblyReference.cache
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.CoreCompileInputs.cache
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.exe
+E:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.pdb
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe.config
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.pdb
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csprojAssemblyReference.cache
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.CoreCompileInputs.cache
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.exe
+D:\programmes\C#\Console\Assignments\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.pdb
